@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/menu_ikkisei"
+            android:title="@string/term_1"
+            app:showAsAction="ifRoom" />
+    <item
+            android:id="@+id/menu_nikisei"
+            android:title="@string/term_2"
+            app:showAsAction="ifRoom" />
+
+    <item
+            android:id="@+id/menu_config"
+            android:title="@string/config"
+            app:showAsAction="never" />
+
+    <item android:title="外部アプリ">
+        <menu>
+            <item
+                    android:id="@+id/menu_hinata"
+                    android:title="@string/hinata"
+                    app:showAsAction="ifRoom" />
+
+            <item
+                    android:id="@+id/menu_nogi"
+                    android:title="@string/nogi"
+                    app:showAsAction="ifRoom" />
+        </menu>
+    </item>
+</menu>

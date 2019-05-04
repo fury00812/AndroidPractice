@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity_to_Activity</string>
+    <string name="text_main">Main Activity</string>
+    <string name="button_main">Go Sub</string>
+    <string name="text_sub">Sub Activity</string>
+    <string name="button_sub">Return Main</string>
+</resources>

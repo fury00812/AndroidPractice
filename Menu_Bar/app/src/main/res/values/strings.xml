@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu_Bar</string>
+    <string name="term_1">一期生</string>
+    <string name="term_2">二期生</string>
+    <string name="config">設定</string>
+    <string name="hinata">日向坂</string>
+    <string name="nogi">乃木坂</string>
+</resources>

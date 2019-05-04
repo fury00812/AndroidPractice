@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Screen_change_in_Activity</string>
+    <string name="text_main">Main</string>
+    <string name="text_sub">Sub</string>
+    <string name="button">Change Layout</string>
+</resources>
